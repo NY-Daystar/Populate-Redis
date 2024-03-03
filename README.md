@@ -1,7 +1,7 @@
 [![Redis-Populate CI](https://github.com/NY-Daystar/Populate-Redis/actions/workflows/ci.yaml/badge.svg)](https://github.com/NY-Daystar/Populate-Redis/actions/workflows/ci.yaml)
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
-[![Version](https://img.shields.io/github/tag/LucasNoga/populate-redis.svg)](https://github.com/LucasNoga/populate-redis/releases)
-[![Total views](https://img.shields.io/sourcegraph/rrc/github.com/LucasNoga/populate-redis.svg)](https://sourcegraph.com/github.com/LucasNoga/populate-redis)
+[![Version](https://img.shields.io/github/tag/NY-Daystar/populate-redis.svg)](https://github.com/NY-Daystar/populate-redis/releases)
+[![Total views](https://img.shields.io/sourcegraph/rrc/github.com/NY-Daystar/populate-redis.svg)](https://sourcegraph.com/github.com/NY-Daystar/populate-redis)
 
 ![GitHub watchers](https://img.shields.io/github/watchers/ny-daystar/populate-redis)
 ![GitHub forks](https://img.shields.io/github/forks/ny-daystar/populate-redis)
