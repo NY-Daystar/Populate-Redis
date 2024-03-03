@@ -54,7 +54,7 @@ func AddUser(client *redis.Client, logger *zap.Logger, verbose bool) {
 	client.ZAdd("users", []redis.Z{{Score: float64(datetime.Unix()), Member: user}}...)
 }
 
-// FlushDatabase
-func FlushDatabase(client *redis.Client, logger *zap.Logger) {
+// FlushDatabase : Delete all data in the redis database
+func FlushDatabase(client *redis.Client) {
 	client.FlushAll()
 }

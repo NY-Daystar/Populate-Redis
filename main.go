@@ -41,7 +41,7 @@ func main() {
 		fmt.Printf("%s", utils.Red("\t\tAre you SURE to flush this database ? "))
 		if utils.AskForConfirmation() {
 			logger.Sugar().Debug("Proceeding with the flush")
-			database.FlushDatabase(client, logger)
+			database.FlushDatabase(client)
 			logger.Sugar().Debug(utils.Red("Database flushed"))
 		} else {
 			logger.Sugar().Debug(utils.Blue("No flush"))

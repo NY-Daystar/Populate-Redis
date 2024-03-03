@@ -19,7 +19,9 @@
 
 # Populate Redis
 
-This project will allow you to easily generate fake users data for testing purposes.
+Golang tool to feed redis database with fake users data for testing purposes.
+
+Source code analysed with [DeepSource](https://deepsource.com/)
 
 ## Summary
 
